@@ -133,7 +133,7 @@ Technology has the best margin at 17.4%. Copiers alone have a 37.3% margin. Mark
 | `q3_losing_money.png` | Products with negative profit |
 | `q4_top_customers.png` | Top 10 customer LTV |
 | `q5_subcategory_margins.png` | Sub-category margin ranking |
-| `q6_discount_impact.png` | Discount tier profit analysis |
+
 
 ---
 
