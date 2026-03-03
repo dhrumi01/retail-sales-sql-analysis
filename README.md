@@ -1,16 +1,16 @@
-# 🛒 Retail Sales SQL Analysis
+# Retail Sales SQL Analysis
 **Author:** Dhrumi Kansara | MS Business Analytics, Arizona State University  
 **Tools:** MySQL | **Domain:** Retail Business Analytics  
 **Dataset:** Sample Superstore — 9,994 orders | 4 regions | 3 categories | 17 sub-categories
 
 ---
 
-## 📋 Business Problem
-A retail company wants to understand what is truly driving profitability — and what is silently destroying it. This analysis examines 9,994 transactions across product categories, regions, customers, and discount strategies to surface actionable insights for leadership decision-making.
+## Business Problem
+A retail company wants to understand what is truly driving profitability and what is silently destroying it. This analysis examines 9,994 transactions across product categories, regions, customers, and discount strategies to surface actionable insights for leadership decision-making.
 
 ---
 
-## ❓ Six Business Questions Answered
+## Six Business Questions Answered
 
 | # | Question |
 |---|----------|
@@ -23,10 +23,10 @@ A retail company wants to understand what is truly driving profitability — and
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 ### Finding 1 — Technology leads profit; Furniture is a margin problem
-Technology generated **$145,387 in profit at a 17.4% margin** despite not being the highest in sales volume. Furniture, by contrast, earned only **$16,981 in profit at a 2.3% margin** — the lowest margin of all three categories — despite $733,046 in sales. Furniture is generating revenue but barely contributing to the bottom line.
+Technology generated **$145,387 in profit at a 17.4% margin** despite not being the highest in sales volume. Furniture, by contrast, earned only **$16,981 in profit at a 2.3% margin** — the lowest margin of all three categories despite $733,046 in sales. Furniture is generating revenue but barely contributing to the bottom line.
 
 | Category | Total Sales | Total Profit | Margin % |
 |----------|------------|--------------|----------|
@@ -44,7 +44,7 @@ Central had the **second highest sales ($497,801) but the lowest profit ($40,129
 | West | $713,471 | $106,021 | 14.9% |
 | East | $672,195 | $90,672 | 13.5% |
 | South | $388,984 | $46,036 | 11.8% |
-| Central | $497,801 | $40,129 | 8.1% ⚠️ |
+| Central | $497,801 | $40,129 | 8.1%  |
 
 ---
 
@@ -66,11 +66,11 @@ Sean Miller is the #1 customer by lifetime value at **$23,669 — but generated 
 
 | Customer | Segment | Lifetime Value | Profit Generated |
 |----------|---------|---------------|-----------------|
-| Sean Miller | Home Office | $23,669 | **-$1,787** ⚠️ |
-| Tamara Chand | Corporate | $18,403 | $8,728 ✅ |
-| Raymond Buch | Consumer | $14,345 | $6,807 ✅ |
-| Tom Ashbrook | Home Office | $13,724 | $4,599 ✅ |
-| Adrian Barton | Consumer | $12,182 | $5,363 ✅ |
+| Sean Miller | Home Office | $23,669 | **-$1,787**  |
+| Tamara Chand | Corporate | $18,403 | $8,728  |
+| Raymond Buch | Consumer | $14,345 | $6,807  |
+| Tom Ashbrook | Home Office | $13,724 | $4,599  |
+| Adrian Barton | Consumer | $12,182 | $5,363  |
 
 ---
 
@@ -79,12 +79,12 @@ The highest-margin sub-categories are small office supply items — **Labels at 
 
 | Sub-Category | Sales | Profit | Margin % |
 |-------------|-------|--------|----------|
-| Labels | $12,486 | $5,546 | 44.4% 🏆 |
-| Paper | $75,356 | $32,712 | 43.4% 🏆 |
-| Envelopes | $15,339 | $6,461 | 42.1% 🏆 |
-| Machines | $189,239 | $3,385 | 1.8% ⚠️ |
-| Bookcases | $114,880 | -$3,473 | -3.0% 🔴 |
-| Tables | $206,966 | -$17,725 | -8.6% 🔴 |
+| Labels | $12,486 | $5,546 | 44.4%  |
+| Paper | $75,356 | $32,712 | 43.4%  |
+| Envelopes | $15,339 | $6,461 | 42.1%  |
+| Machines | $189,239 | $3,385 | 1.8% |
+| Bookcases | $114,880 | -$3,473 | -3.0%  |
+| Tables | $206,966 | -$17,725 | -8.6%  |
 
 ---
 
@@ -93,14 +93,14 @@ Orders with **zero discount averaged $68.11 profit per order**. Orders with **40
 
 | Discount Tier | Orders | Total Sales | Total Profit | Avg Profit/Order |
 |--------------|--------|------------|--------------|-----------------|
-| 0% — No Discount | 4,657 | $1,072,777 | **$317,184** | $68.11 ✅ |
-| 1–20% Discount | 3,693 | $838,235 | **$99,827** | $27.03 ✅ |
-| 21–40% Discount | 459 | $234,066 | **-$35,826** | -$78.05 🔴 |
-| 40%+ Heavy Discount | 885 | $127,371 | **-$98,328** | -$111.10 🔴 |
+| 0% — No Discount | 4,657 | $1,072,777 | **$317,184** | $68.11 |
+| 1–20% Discount | 3,693 | $838,235 | **$99,827** | $27.03 |
+| 21–40% Discount | 459 | $234,066 | **-$35,826** | -$78.05 |
+| 40%+ Heavy Discount | 885 | $127,371 | **-$98,328** | -$111.10 |
 
 ---
 
-## ✅ Business Recommendations
+## Business Recommendations
 
 **1. Immediately cap discounts at 20% company-wide**
 Orders above 20% discount are net-negative on average. The 40%+ tier alone lost $98,328 despite $127K in sales. No discount above 20% should be approved without VP sign-off.
@@ -147,4 +147,4 @@ Technology has the best margin at 17.4%. Copiers alone have a 37.3% margin. Mark
 
 ## 🔗 Connect
 **LinkedIn:** [linkedin.com/in/dhrumikansara](https://linkedin.com/in/dhrumikansara)  
-**Email:** dhrumibrijeshkansara@gmail.com
+**Email:** dkansar4@asu.edu
