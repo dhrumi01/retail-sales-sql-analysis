@@ -75,7 +75,7 @@ Sean Miller is the #1 customer by lifetime value at **$23,669 — but generated 
 ---
 
 ### Finding 5 — Labels, Paper, and Envelopes are the hidden profit stars; Tables are the worst
-The highest-margin sub-categories are small office supply items — **Labels at 44.4%, Paper at 43.4%, Envelopes at 42.1%**. These low-ticket items are extremely efficient. Meanwhile, **Tables have a -8.6% margin** and **Bookcases -3.0%** both are actively destroying value. Machines sit at just 1.8% margin, barely breaking even.
+The highest-margin sub-categories are small office supply items **Labels at 44.4%, Paper at 43.4%, Envelopes at 42.1%**. These low-ticket items are extremely efficient. Meanwhile, **Tables have a -8.6% margin** and **Bookcases -3.0%** both are actively destroying value. Machines sit at just 1.8% margin, barely breaking even.
 
 | Sub-Category | Sales | Profit | Margin % |
 |-------------|-------|--------|----------|
