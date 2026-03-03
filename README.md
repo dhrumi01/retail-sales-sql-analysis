@@ -37,7 +37,7 @@ Technology generated **$145,387 in profit at a 17.4% margin** despite not being 
 ---
 
 ### Finding 2 — Central region is the biggest underperformer
-Central had the **second highest sales ($497,801) but the lowest profit ($40,129) at only 8.1% margin** — less than half the margin of the West (14.9%). The East and West regions are significantly more efficient at converting sales into profit. Central's low margin despite high volume strongly suggests a discounting or pricing problem at the regional level.
+Central had the **second highest sales ($497,801) but the lowest profit ($40,129) at only 8.1% margin** less than half the margin of the West (14.9%). The East and West regions are significantly more efficient at converting sales into profit. Central's low margin despite high volume strongly suggests a discounting or pricing problem at the regional level.
 
 | Region | Total Sales | Total Profit | Margin % |
 |--------|------------|--------------|----------|
@@ -49,7 +49,7 @@ Central had the **second highest sales ($497,801) but the lowest profit ($40,129
 ---
 
 ### Finding 3 — 10 high-selling products are actively losing money
-Products with over $1,000 in sales but negative total profit — all victims of excessive discounting. The worst offender: the **Lexmark Printer with $16,830 in sales but -$4,590 in profit**. Tables and Bookcases appear repeatedly, confirming the Furniture discount problem.
+Products with over $1,000 in sales but negative total profit all victims of excessive discounting. The worst offender: the **Lexmark Printer with $16,830 in sales but -$4,590 in profit**. Tables and Bookcases appear repeatedly, confirming the Furniture discount problem.
 
 | Product | Category | Sales | Profit | Avg Discount |
 |---------|----------|-------|--------|--------------|
@@ -75,7 +75,7 @@ Sean Miller is the #1 customer by lifetime value at **$23,669 — but generated 
 ---
 
 ### Finding 5 — Labels, Paper, and Envelopes are the hidden profit stars; Tables are the worst
-The highest-margin sub-categories are small office supply items — **Labels at 44.4%, Paper at 43.4%, Envelopes at 42.1%**. These low-ticket items are extremely efficient. Meanwhile, **Tables have a -8.6% margin** and **Bookcases -3.0%** — both are actively destroying value. Machines sit at just 1.8% margin, barely breaking even.
+The highest-margin sub-categories are small office supply items — **Labels at 44.4%, Paper at 43.4%, Envelopes at 42.1%**. These low-ticket items are extremely efficient. Meanwhile, **Tables have a -8.6% margin** and **Bookcases -3.0%** both are actively destroying value. Machines sit at just 1.8% margin, barely breaking even.
 
 | Sub-Category | Sales | Profit | Margin % |
 |-------------|-------|--------|----------|
@@ -106,7 +106,7 @@ Orders with **zero discount averaged $68.11 profit per order**. Orders with **40
 Orders above 20% discount are net-negative on average. The 40%+ tier alone lost $98,328 despite $127K in sales. No discount above 20% should be approved without VP sign-off.
 
 **2. Investigate and restructure Central region pricing**
-Central region's 8.1% margin vs West's 14.9% cannot be explained by demand alone. Conduct a discount audit for Central region sales reps — they are likely over-discounting to close deals.
+Central region's 8.1% margin vs West's 14.9% cannot be explained by demand alone. Conduct a discount audit for Central region sales reps they are likely over-discounting to close deals.
 
 **3. Reprice or discontinue Tables and Bookcases**
 Tables lost $17,725 at -8.6% margin across 307 orders. Either raise base prices, eliminate discounting entirely on these items, or remove them from the catalog. They are the single largest profit drain.
