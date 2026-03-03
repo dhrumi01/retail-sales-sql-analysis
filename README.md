@@ -89,7 +89,7 @@ The highest-margin sub-categories are small office supply items — **Labels at 
 ---
 
 ### Finding 6 — Heavy discounting is a confirmed profit killer
-Orders with **zero discount averaged $68.11 profit per order**. Orders with **40%+ discounts averaged -$111.10 loss per order** — a $179 swing. Despite generating $127,371 in sales, the 40%+ discount tier produced **-$98,328 in total profit**. The 21-40% discount tier also lost money (-$35,826). Only orders with 0-20% discounts are profitable.
+Orders with **zero discount averaged $68.11 profit per order**. Orders with **40%+ discounts averaged -$111.10 loss per order** a $179 swing. Despite generating $127,371 in sales, the 40%+ discount tier produced **-$98,328 in total profit**. The 21-40% discount tier also lost money (-$35,826). Only orders with 0-20% discounts are profitable.
 
 | Discount Tier | Orders | Total Sales | Total Profit | Avg Profit/Order |
 |--------------|--------|------------|--------------|-----------------|
