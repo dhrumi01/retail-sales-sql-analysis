@@ -62,7 +62,7 @@ Products with over $1,000 in sales but negative total profit all victims of exce
 ---
 
 ### Finding 4 — Top customers reveal a VIP retention risk
-Sean Miller is the #1 customer by lifetime value at **$23,669 — but generated -$1,787 in profit**, meaning the company is actually losing money serving its highest-revenue customer. Tamara Chand ($18,403 sales, $8,728 profit) and Raymond Buch ($14,345 sales, $6,807 profit) are the true most valuable customers when profit is factored in.
+Sean Miller is the #1 customer by lifetime value at **$23,669 but generated -$1,787 in profit**, meaning the company is actually losing money serving its highest-revenue customer. Tamara Chand ($18,403 sales, $8,728 profit) and Raymond Buch ($14,345 sales, $6,807 profit) are the true most valuable customers when profit is factored in.
 
 | Customer | Segment | Lifetime Value | Profit Generated |
 |----------|---------|---------------|-----------------|
