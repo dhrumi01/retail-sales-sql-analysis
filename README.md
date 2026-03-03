@@ -26,7 +26,7 @@ A retail company wants to understand what is truly driving profitability and wha
 ## Key Findings
 
 ### Finding 1 — Technology leads profit; Furniture is a margin problem
-Technology generated **$145,387 in profit at a 17.4% margin** despite not being the highest in sales volume. Furniture, by contrast, earned only **$16,981 in profit at a 2.3% margin** — the lowest margin of all three categories despite $733,046 in sales. Furniture is generating revenue but barely contributing to the bottom line.
+Technology generated **$145,387 in profit at a 17.4% margin** despite not being the highest in sales volume. Furniture, by contrast, earned only **$16,981 in profit at a 2.3% margin** the lowest margin of all three categories despite $733,046 in sales. Furniture is generating revenue but barely contributing to the bottom line.
 
 | Category | Total Sales | Total Profit | Margin % |
 |----------|------------|--------------|----------|
